@@ -1,0 +1,3 @@
+C:/Users/Marius/CLionProjects/Turgus/cmake-build-debug/CMakeFiles/Turgus.dir
+C:/Users/Marius/CLionProjects/Turgus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marius/CLionProjects/Turgus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
