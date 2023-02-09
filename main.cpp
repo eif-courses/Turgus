@@ -36,11 +36,7 @@ void StudentoKurimas(vector<Studentas> &studentai){
     cin >> amzius;
     studentai.push_back(Studentas("sawee",vardas, amzius,"aawae"));
 }
-void Spausdinti(){
-    for (int i = 0; i < 11; ++i) {
-        cout << "labas";
-    }
-}
+
 
 
 int main() {
